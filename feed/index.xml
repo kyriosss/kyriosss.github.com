@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kyrios' Blog]]></title>
-  <link href="http://kyriosss.github.io/atom.xml" rel="self"/>
+  <link href="http://kyriosss.github.io/feed" rel="self"/>
   <link href="http://kyriosss.github.io/"/>
   <updated>2014-04-22T22:50:28+08:00</updated>
   <id>http://kyriosss.github.io/</id>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello2]]></title>
+    <title type="html"><![CDATA[hello2]]></title>
     <link href="http://kyriosss.github.io/blog/2014/04/22/hello2/"/>
     <updated>2014-04-22T21:00:17+08:00</updated>
     <id>http://kyriosss.github.io/blog/2014/04/22/hello2</id>
