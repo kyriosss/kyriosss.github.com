@@ -4,7 +4,7 @@
   <title><![CDATA[Kyrios' Blog]]></title>
   <link href="http://kyriosss.github.io/feed" rel="self"/>
   <link href="http://kyriosss.github.io/"/>
-  <updated>2014-04-23T00:04:28+08:00</updated>
+  <updated>2014-04-23T00:43:42+08:00</updated>
   <id>http://kyriosss.github.io/</id>
   <author>
     <name><![CDATA[kyrios]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[hello2]]></title>
-    <link href="http://kyriosss.github.io/blog/2014/04/22/hello2/"/>
-    <updated>2014-04-22T21:00:17+08:00</updated>
-    <id>http://kyriosss.github.io/blog/2014/04/22/hello2</id>
-    <content type="html"><![CDATA[<p>hhhhhhhhhhhhhhhh</p>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://kyriosss.github.io/blog/2014/04/23/hello/"/>
+    <updated>2014-04-23T00:00:00+08:00</updated>
+    <id>http://kyriosss.github.io/blog/2014/04/23/hello</id>
+    <content type="html"><![CDATA[<p>hello.world</p>
 ]]></content>
   </entry>
   
