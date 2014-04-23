@@ -4,7 +4,7 @@
   <title><![CDATA[Kyrios' Blog]]></title>
   <link href="http://kyriosss.github.io/feed" rel="self"/>
   <link href="http://kyriosss.github.io/"/>
-  <updated>2014-04-23T18:10:12+08:00</updated>
+  <updated>2014-04-23T19:28:45+08:00</updated>
   <id>http://kyriosss.github.io/</id>
   <author>
     <name><![CDATA[kyrios]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello,Blog]]></title>
+    <title type="html"><![CDATA[Hello]]></title>
     <link href="http://kyriosss.github.io/blog/2014/04/23/hello/"/>
-    <updated>2014-04-23T13:36:38+08:00</updated>
+    <updated>2014-04-23T00:00:00+08:00</updated>
     <id>http://kyriosss.github.io/blog/2014/04/23/hello</id>
     <content type="html"><![CDATA[<hr />
+
+<p>layout: post
+title: &ldquo;Hello,Blog&rdquo;
+date: 2014-04-23 13:36:38 +0800
+comments: true</p>
+
+<h2>categories: </h2>
+
+<hr />
 
 <p>  其实很早之前就想拥有自己的一个博客，用来记录自己的大学生活和写一些技术文章，但是由于各种拖延症而耽搁了，不过主要都是因为自己太水做不出来。一开始是想用<code>python+django</code>做的，但是做到一半就放弃了,最后终于知道了<code>Octopress+Github</code>这个神器。</p>
 
@@ -61,6 +70,9 @@
 上述的这些都要等到TA工资，奖金，实习工资来了才可以逐一实现……哭T<sup>T</sup></p>
 
 <hr />
+
+<p><strong>特别鸣谢:</strong>
+感谢强哥提供的技术支持～</p>
 ]]></content>
   </entry>
   
