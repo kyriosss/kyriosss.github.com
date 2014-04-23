@@ -4,7 +4,7 @@
   <title><![CDATA[Kyrios' Blog]]></title>
   <link href="http://kyriosss.github.io/feed" rel="self"/>
   <link href="http://kyriosss.github.io/"/>
-  <updated>2014-04-23T13:50:03+08:00</updated>
+  <updated>2014-04-23T13:51:34+08:00</updated>
   <id>http://kyriosss.github.io/</id>
   <author>
     <name><![CDATA[kyrios]]></name>
@@ -24,10 +24,10 @@
 
 <p>  开这个博客的一个很主要的原因是最近忙于找实习节奏十分的乱，最近事情确定下来终于可以松一口气了，所以就想稳住节奏，顺便试着开始写博客。同时也通过多次面试深刻地体会到自己是有多水，还有好多好多需要掌握的东西T<sup>T</sup>。</p>
 
-<p>  按照惯例好像第一篇都要吐槽一下建博的过程。
-  1.  坑爹的Ruby安装过程（这个过程已经够折腾人了）</p>
+<p>  按照惯例好像第一篇都要吐槽一下建博的过程。</p>
 
 <ol>
+<li><p>  坑爹的Ruby安装过程（这个过程已经够折腾人了）</p></li>
 <li><p>  添加多说评论。（网上很多教程都说的很简单，但其实他们都漏说了最重要的一步啊，就是要自己注册账号生成页面啊）</p></li>
 <li><p>  购买域名（原来想买kyriosss.com，但是穷Diaosi表示舍不得）</p></li>
 </ol>
