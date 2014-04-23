@@ -4,7 +4,7 @@
   <title><![CDATA[Kyrios' Blog]]></title>
   <link href="http://kyriosss.github.io/atom.xml" rel="self"/>
   <link href="http://kyriosss.github.io/"/>
-  <updated>2014-04-23T00:49:26+08:00</updated>
+  <updated>2014-04-23T13:38:01+08:00</updated>
   <id>http://kyriosss.github.io/</id>
   <author>
     <name><![CDATA[kyrios]]></name>
@@ -14,11 +14,51 @@
 
   
   <entry>
-    <title type="html"><![CDATA[helloblog]]></title>
-    <link href="http://kyriosss.github.io/blog/2014/04/23/helloblog/"/>
-    <updated>2014-04-23T00:48:35+08:00</updated>
-    <id>http://kyriosss.github.io/blog/2014/04/23/helloblog</id>
-    <content type="html"><![CDATA[<p>hhhhhhhh</p>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://kyriosss.github.io/blog/2014/04/23/hello/"/>
+    <updated>2014-04-23T13:36:38+08:00</updated>
+    <id>http://kyriosss.github.io/blog/2014/04/23/hello</id>
+    <content type="html"><![CDATA[<h1>Hello，Blog</h1>
+
+<hr />
+
+<p>  其实很早之前就想拥有自己的一个博客，用来记录自己的大学生活和写一些技术文章，但是由于各种拖延症而耽搁了，不过主要都是因为自己太水做不出来。一开始是想用<code>python+django</code>做的，但是做到一半就放弃了,最后终于知道了<code>Octopress+Github</code>这个神器。</p>
+
+<p>  开这个博客的一个很主要的原因是最近忙于找实习节奏十分的乱，最近事情确定下来终于可以松一口气了，所以就想稳住节奏，顺便试着开始写博客。同时也通过多次面试深刻地体会到自己是有多水，还有好多好多需要掌握的东西T<sup>T</sup>。</p>
+
+<p>  按照惯例好像第一篇都要吐槽一下建博的过程。
+  1.  坑爹的Ruby安装过程（这个过程已经够折腾人了）
+  2.  添加多说评论。（网上很多教程都说的很简单，但其实他们都漏说了最重要的一步啊，就是要自己注册账号生成页面啊）
+  3.  购买域名（原来想买kyriosss.com，但是穷Diaosi表示舍不得）</p>
+
+<hr />
+
+<p>第一篇写的很杂乱有木有，完全没有章法可言。但是最后的最后一定要写下一些近期的学习目标和想买的东西来激励自己。</p>
+
+<p><strong>学习目标：</strong></p>
+
+<ul>
+<li>深度神经网络</li>
+<li>恶补网络编程</li>
+<li>继续学习Linux</li>
+</ul>
+
+
+<hr />
+
+<p><strong>想买的东西:</strong></p>
+
+<ul>
+<li>New Balance 998 国家公园 湖水蓝(之前比赛奖金够了但是忍住了没买T<sup>T</sup>)</li>
+<li>背光轻轴机械键盘（程序猿你懂的）</li>
+<li>Mac（这只是一个遥远而青涩的梦……）</li>
+</ul>
+
+
+<p>未完待续……
+上述的这些都要等到TA工资，奖金，实习工资来了才可以逐一实现……哭T<sup>T</sup></p>
+
+<hr />
 ]]></content>
   </entry>
   
